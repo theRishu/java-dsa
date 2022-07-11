@@ -22,6 +22,9 @@ Document everything!
 This feature can be used for publishing content such as:
 
 - **Online courses**
+
+
+
 - **Project or software documentation**
 - **Tutorials**
 - **Notes**
